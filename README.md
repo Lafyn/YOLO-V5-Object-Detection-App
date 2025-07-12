@@ -1,5 +1,21 @@
 # 🧠 YOLOv5 Object Detection WebApp
 
+# Ujian Akhir Semester  
+## Pengolahan Citra Digital  
+### Kelompok 7
+
+| NIM        | Nama                        |
+|------------|-----------------------------|
+| 312310043  | Akmal Fauzan                |
+| 312310016  | Bagus Tri Ardiawan          |
+| 312310064  | Dimas Setya Budi            |
+| 312310029  | Moch. Alwi                  |
+| 312310779  | Rizki Andriyono Pratama     |
+
+
+---
+
+YOLOv5 Object Detection WebApp
 Sebuah aplikasi web interaktif untuk melakukan deteksi objek menggunakan model **YOLOv5**. Aplikasi ini dapat mendeteksi objek pada **gambar statis** maupun secara **real-time** menggunakan **webcam**, dengan antarmuka yang dibangun menggunakan **Streamlit**.
 
 ---
