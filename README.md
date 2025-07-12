@@ -82,16 +82,11 @@ streamlit-webrtc
 ---
 
 ## 🖼 Contoh Deteksi
-
-Anda bisa menambahkan screenshot hasil deteksi dari:
-
 - Kamera (YOLO WebRTC)
+  ![Deteksi Webcam](images/webrtc_demo.png)
+  
 - Gambar statis (YOLO for image)
-
-> *Tampilan bounding box dan label objek akan muncul secara otomatis dengan confidence score.*
-
+  ![Hasil Deteksi Gambar](images/Prediction_example.png)
+ 
 ---
 
-## 📄 Lisensi
-
-Proyek ini dikembangkan untuk pembelajaran dan eksplorasi teknologi deteksi objek menggunakan YOLOv5. Bebas digunakan dan dimodifikasi.
